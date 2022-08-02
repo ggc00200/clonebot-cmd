@@ -1,4 +1,4 @@
-# [Clone Bot-cmd](https://github.com/m4mallu/clonebot)
+# [Clone Bot-cmd](https://github.com/ggc00200/clonebot)
 
  A simple telegram bot can clone medias from any chat to your private chat 😍 
 ### 👉 command based design 👈
@@ -6,7 +6,7 @@ For any working help, run /help in bot !
 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot-cmd)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ggc00200/clonebot-cmd)
 <br>
 
 ### Mandatory Variables 
